@@ -1,0 +1,10 @@
+name: built_version_workspace     # Can be anything
+environment:
+  sdk: ^3.5.0
+
+publish_to: none
+
+workspace:
+  - example
+  - built_version
+  - built_version_annotation
