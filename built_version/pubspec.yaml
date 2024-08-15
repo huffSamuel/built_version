@@ -1,5 +1,6 @@
 name: built_version
-description: A starting point for Dart libraries or applications.
+repository: https://github.com/huffSamuel/built_version/tree/main/built_version
+description: Generate source code with the package's version by annotating a getter.
 version: 1.0.0
 
 environment:
