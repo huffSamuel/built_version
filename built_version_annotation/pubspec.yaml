@@ -1,0 +1,14 @@
+name: built_version_annotation
+repository: https://github.com/huffSamuel/built_version/built_version_annotation
+description: Annotations that support built version source code generation via the `built_version` package.
+version: 1.0.0
+
+environment:
+  sdk: ^3.3.3
+
+dependencies:
+    meta: ^1.15.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0

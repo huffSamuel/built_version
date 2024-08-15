@@ -1,0 +1,18 @@
+targets:
+  $default:
+    builders:
+      built_version|copyBuilder:
+        generate_for: 
+          - '**/*.dart'
+        enabled: True
+
+builders:
+  copyBuilder:
+    import: 'package:built_version/built_version.dart'
+    builder_factories: [ 'copyBuilder' ]
+    build_extensions:
+      .dart:
+          - builtVersion.g.part
+    build_to: cache
+    auto_apply: dependents
+    applies_builders: ["source_gen|combining_builder"]
