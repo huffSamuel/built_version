@@ -1,5 +1,5 @@
 name: built_version_annotation
-repository: https://github.com/huffSamuel/built_version/built_version_annotation
+repository: https://github.com/huffSamuel/built_version/tree/main/built_version_annotation
 description: Annotations that support built version source code generation via the `built_version` package.
 version: 1.0.0
 
