@@ -7,7 +7,7 @@ environment:
   sdk: ^3.3.3
 
 dependencies:
-  analyzer: ^6.4.1
+  analyzer: ^7.5.4
   build: ^2.4.0
   glob: ^2.1.2
   meta: ^1.15.0
