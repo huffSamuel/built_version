@@ -1,3 +1,6 @@
+## 1.2.0
+- chore(deps): remove dependency on test
+
 ## 1.1.0
 
 - chore(deps): bump lints to 6.x

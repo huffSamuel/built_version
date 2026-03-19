@@ -1,3 +1,7 @@
+## 1.2.0
+
+- chore(deps): broaden dependency support range
+
 ## 1.1.0
 
 - chore(deps): bump build to 2.5.4
