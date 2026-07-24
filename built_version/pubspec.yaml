@@ -1,7 +1,7 @@
 name: built_version
 repository: https://github.com/huffSamuel/built_version/tree/main/built_version
 description: Generate source code with the package's version by annotating a getter.
-version: 1.2.0
+version: 1.2.1
 
 environment:
   sdk: ^3.3.3
